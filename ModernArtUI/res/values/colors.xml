@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="view1_1">#6A77B7</color>
+    <color name="view1_2">#D64F97</color>
+    <color name="view2_1">#A31D21</color>
+    <color name="view2_3">#273A97</color>
+    
+    <color name="gray">#E6E6E6</color>
+    <color name="white">#FFFFFF</color>
+</resources>

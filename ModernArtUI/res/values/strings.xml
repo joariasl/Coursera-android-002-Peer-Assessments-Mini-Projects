@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ModernArtUI</string>
+    <string name="app_name_spaces">Modern Art UI</string>
+    <string name="action_more_information">More Information</string>
+    <string name="about">About</string>
+    <string name="created_by">Created by Jorge Arias</string>
+    <string name="author_url_linkedin">https://www.linkedin.com/in/joariasl</string>
+    <string name="author_image">Author image</string>
+
+</resources>
